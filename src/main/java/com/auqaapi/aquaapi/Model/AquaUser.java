@@ -15,7 +15,7 @@ import javax.persistence.Id;
 @Setter
 public class AquaUser {
 
-
+//asd
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
